@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedGame = null;
 
     sourceCode.addEventListener('click', () => {
-        window.open('https://github.com/ShafiqSadat/HamsterKeyGenWeb', '_blank');
+        window.open('https://t.me/BitcoinSummary', '_blank');
     });
 
     gameOptions.forEach(option => {
