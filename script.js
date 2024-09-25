@@ -206,7 +206,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedGame = null;
 
     sourceCode.addEventListener('click', () => {
-        window.open('https://t.me/ShazamioChannel');
+        window.open('https://t.me/ShazamioChannel', '_blank');
     });
 
     gameOptions.forEach(option => {
