@@ -132,7 +132,27 @@ h1 {
 
 .form-group {
     margin-bottom: 20px;
-    text-align: left;
+    text-align: center;
+    width: 100%;
+}
+.key-slider {
+    width: 80%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#keyRange {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+#keyValue {
+    font-size: 24px;
+    font-weight: bold;
 }
 
 label {
